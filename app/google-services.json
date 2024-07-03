@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "151047145703",
+    "project_id": "chatting-d1a02",
+    "storage_bucket": "chatting-d1a02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151047145703:android:f694da7f322a418af87a42",
+        "android_client_info": {
+          "package_name": "com.maid.chatting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_-LGH51lZ5ZFsEUmJFFsbSICZ_SuX04k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
